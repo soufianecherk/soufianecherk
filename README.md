@@ -4,7 +4,7 @@ Hi 👋 My name is Soufiane
 Software Engineering Student Specializing in DevOps ♾
 -----------------------------------------------------
 
-I'm a 4th-year Software Engineering student from Morocco passionate about DevOps and Cloud. I specialize in building modern CI/CD pipelines and cloud-native solutions. I enjoy automating workflows and optimizing development processes.
+I'm a 5th-year Software Engineering student from Morocco passionate about DevOps and Cloud. I specialize in building modern CI/CD pipelines and cloud-native solutions. I enjoy automating workflows and optimizing development processes.
 
 * 🌍  I'm based in Rabat, Morocco
 * ⚡  I'm looking currently for international internship opportunities in DevOps and Cloud to enhance my skills and contribute to impactful projects.
